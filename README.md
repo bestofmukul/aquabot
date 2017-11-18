@@ -3,12 +3,14 @@
 Aquabot is a raspberry pi based water sprinkler system written in go. Its primary purpose is to water indoor plants at specified schedule. This project was started as a learning path towards handling electronic components via raspberry pi.
 Wiki here provides some insights into the journey.
 
+![](images/Aquabot-assembled.jpeg?raw=true "Aquabot assembled image")
+
 # Install
 Pre-req: You should have a go environment setup. 
 
 All you need to do is
 ```
-go get github.com/bestofmukul/aquabot
+go get github.com/bestofmukul/aquabot/...
 ```
 
 # Usage
