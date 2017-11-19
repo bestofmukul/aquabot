@@ -16,7 +16,7 @@ go get github.com/bestofmukul/aquabot/...
 # Usage
 Build script provided here takes task name as parameter and create a binary compatible to raspberry pi platform. You can then scp the binary to pi and run it.
 
-Circuit schematics are in wiki.
+Circuit schematics and other details are in [wiki](https://github.com/bestofmukul/aquabot/wiki).
 
 * Building aquabot
 ```
